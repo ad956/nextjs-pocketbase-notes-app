@@ -4,11 +4,9 @@ This is a simple notes app built using [Next.js](https://nextjs.org/) as the fro
 
 ## Features
 
-- **Markdown Support**: The app supports writing notes in markdown format for easy formatting.
 - **Custom Backend with PocketBase**: Utilizes a custom backend for secure storage and synchronization of notes, with PocketBase as the database solution.
 - **Server-side Rendering (SSR)**: Next.js provides SSR for better performance and SEO optimization.
 - **Dynamic Routing**: Notes are dynamically routed based on their slugs for a clean and user-friendly URL structure.
-- **Front-matter Parsing**: Utilizes `gray-matter` for parsing front-matter from markdown files.
 
 ## Getting Started
 
