@@ -47,28 +47,6 @@ export default function Home() {
         </li>
       </ol>
 
-      <h2>Project Structure</h2>
-      <ul>
-        <li>
-          <code>pages/</code>: Contains Next.js pages, such as the index page
-          and dynamic note pages.
-        </li>
-        <li>
-          <code>public/notes/</code>: Directory to store markdown notes.
-        </li>
-        <li>
-          <code>components/</code>: Reusable React components, including Notes
-          and Note components.
-        </li>
-        <li>
-          <code>lib/</code>: Utility functions or external integrations, such as
-          interactions with the custom backend using PocketBase.
-        </li>
-        <li>
-          <code>styles/</code>: Stylesheets for styling components.
-        </li>
-      </ul>
-
       <h2>Dependencies</h2>
       <div className="dependencies">
         <a href="https://nextjs.org/">
