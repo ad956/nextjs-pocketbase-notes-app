@@ -15,14 +15,6 @@ This is a simple notes app built using [Next.js](https://nextjs.org/) as the fro
 3. Run the development server: `npm run dev`
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Project Structure
-
-- `pages/`: Contains Next.js pages, such as the index page and dynamic note pages.
-- `public/notes/`: Directory to store markdown notes.
-- `components/`: Reusable React components, including Notes and Note components.
-- `lib/`: Utility functions or external integrations, such as interactions with the custom backend using PocketBase.
-- `styles/`: Stylesheets for styling components.
-
 ## Dependencies
 
 <div style="display: flex; align-items: center;">
