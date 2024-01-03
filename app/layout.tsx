@@ -20,6 +20,11 @@ export default function RootLayout({
       <body className={inter.className}>
         <main>
           <nav>
+            <img
+              src="https://cdn-icons-png.flaticon.com/512/5063/5063397.png"
+              alt="logo"
+              width={30}
+            />
             <Link href="/">Home</Link>
             <Link href="/notes">Notes</Link>
           </nav>
