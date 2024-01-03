@@ -25,3 +25,12 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+nav{
+max-width: 200px;
+display: flex;
+justify-content:space-around;
+justify-items: center;
+padding: 20px;
+}
