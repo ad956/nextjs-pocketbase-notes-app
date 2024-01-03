@@ -34,3 +34,52 @@ justify-content:space-around;
 justify-items: center;
 padding: 20px;
 }
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+p {
+  color: #555;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+ol {
+  list-style-type: decimal;
+  padding-left: 20px;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.2s ease-in-out;
+}
+
+a:hover {
+  border-bottom: 1px solid #0070f3;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.dependencies {
+  display: flex;
+  align-items: center;
+}
+
+.dependencies img {
+  margin-right: 10px;
+}
